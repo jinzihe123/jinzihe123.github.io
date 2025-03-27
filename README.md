@@ -1,2 +1,2 @@
 # My Homepage
-## [link](https://jinzihe123.github.io/)
+### [link](https://jinzihe123.github.io/)
